@@ -1,0 +1,5 @@
+Name,sha3_uncles,logs_bloom,transactions_root,state_root,receipts_root
+Length,448000073,3584000520,448000079,448000072,448000075
+Memory saved in Bytes,1792000292,14336002080,1792000316,1792000288,1792000300
+,,,,,
+Total Memory Saved,,,,,21504003276
